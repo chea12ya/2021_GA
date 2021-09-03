@@ -10,7 +10,7 @@
 
 
 ## mypage 만들기
- * 01 main.html 자기소개, 좋아하는 것들, todolist 링크 연결 [link]()
+ * 01 main.html 자기소개, 좋아하는 것들, todolist 링크 연결 [link](https://github.com/chea12ya/2021_GA/blob/main/210903%20%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C/main.html)
  * 02 자기소개 웹 페이지 (my01) [link](https://github.com/chea12ya/2021_GA/blob/main/210903%20%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C/my01.html)
  * 03 좋아하는 것들 (my02) [link](https://github.com/chea12ya/2021_GA/blob/main/210903%20%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C/my02.html)
  * 04 todolist (my03) [link](https://github.com/chea12ya/2021_GA/blob/main/210903%20%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C/my03.html)
