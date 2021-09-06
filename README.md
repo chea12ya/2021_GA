@@ -17,5 +17,7 @@ https://chea12ya.github.io/2021_GA/
  * 03 좋아하는 것들 (my02) [link](https://github.com/chea12ya/2021_GA/blob/main/210903%20%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C/my02.html)
  * 04 todolist (my03) [link](https://github.com/chea12ya/2021_GA/blob/main/210903%20%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C/my03.html)
 
-## mygallery 만들기
-* 01 나의 갤러리[link](https://github.com/chea12ya/2021_GA/blob/main/02_css_gallery/14_img.html)
+## CSS 기본 이해
+* 01 나의 사진 갤러리
+[이동](https://chea12ya.github.io/2021_GA/02_css_gallery/14_img.html)
+[코드](https://github.com/chea12ya/2021_GA/blob/main/02_css_gallery/14_img.html)
