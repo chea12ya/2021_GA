@@ -24,3 +24,5 @@ https://chea12ya.github.io/2021_GA/
 
 * 02 나의 자기소개 페이지
 [이동](https://chea12ya.github.io/2021_GA/02_css_gallery/main.html)
+
+## 영화 댓글 50개 
