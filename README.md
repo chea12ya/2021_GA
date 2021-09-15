@@ -27,7 +27,7 @@ https://chea12ya.github.io/2021_GA/
 
 
 ## KOSDAQ KOSPI 데이터 시각화 및 CSV, XLSX 파일 변환 추출
-01 KOSDAQ KOSPI CSV 파일 [link] (https://github.com/chea12ya/2021_GA/blob/main/05_210908%20KOSDAQ%20KOSPI/210908%20KOSDAQ%20%EC%A7%80%EC%88%98.csv)
+01 KOSDAQ KOSPI CSV 파일 [link](https://github.com/chea12ya/2021_GA/blob/main/05_210908%20KOSDAQ%20KOSPI/210908%20KOSDAQ%20%EC%A7%80%EC%88%98.csv)
 
 
 ## '사냥의 시간' 댓글 50p 데이터 시각화
