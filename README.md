@@ -33,3 +33,7 @@ https://chea12ya.github.io/2021_GA/
 
 
 ## jupyter day01 
+
+
+## Kaggle
+01 _Titanic 실습 [link](https://github.com/chea12ya/2021_GA/blob/main/05_Titanic/210915-titanic.ipynb)
