@@ -35,7 +35,8 @@ https://chea12ya.github.io/2021_GA/
 
 
 ## 파일럿프로젝트_카카오메이커스
-
+01 210914 기준 카카오메이커스 전체 브랜드 엑셀화 [link]
+(https://github.com/chea12ya/2021_GA/blob/main/06_210914%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%BB%A4%EB%A8%B8%EC%8A%A4/%EA%B0%80%EC%B1%84%EC%9B%90_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%A9%94%EC%9D%B4%EC%BB%A4%EC%8A%A4%20%EC%A0%84%EC%A0%9C%ED%92%88.xlsx)
 
 ## Kaggle
 01 _Titanic 실습 [link](https://github.com/chea12ya/2021_GA/blob/main/05_Titanic/210915-titanic.ipynb)
