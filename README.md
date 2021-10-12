@@ -42,4 +42,4 @@ https://chea12ya.github.io/2021_GA/
 01 _Titanic 실습 [link](https://github.com/chea12ya/2021_GA/blob/main/05_Titanic/210915-titanic.ipynb)
 
 ## 스파게티
-211007 최종 
+211007 최종 [link]() 
