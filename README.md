@@ -12,9 +12,8 @@ https://chea12ya.github.io/2021_GA/
 
 
 ## mypage 만들기
- * 01 main.html 자기소개, 좋아하는 것들, todolist 링크 연결 [link](https://github.com/chea12ya/2021_GA/blob/main/main.html)
- * 04 todolist (my03) [link](https://github.com/chea12ya/2021_GA/blob/main/210903%20%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C/my03.html)
- * 05 맛집, 자주/기억 리스트 5곳 [link]
+ * 01 main.html 자기소개, 좋아하는 것들, todolist  [link](https://github.com/chea12ya/2021_GA/blob/main/main.html)
+ * 02 맛집, 자주/기억 리스트 5곳 [link]
 
 ## CSS 기본 이해
 * 01 나의 사진 갤러리
