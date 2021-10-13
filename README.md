@@ -38,9 +38,10 @@ https://chea12ya.github.io/2021_GA/
 ## Kaggle
 01 _Titanic 실습 [link](https://github.com/chea12ya/2021_GA/blob/main/05_Titanic/210915-titanic.ipynb)
 
-## 스파게티
-211007
+## 스파게티 (210917-211008)
+발표 자료 [pdf]
+계획서 [word](https://chea12ya.github.io/2021_GA/211007_스파게티/LikeLion_프로젝트계획서_포맷_스파게티.docx)
 김범중 [link](
 정진우 [link](
 가채원 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/211007_스파게티.ipynb) 
-윤진훈 [link](
+윤진훈 [link]()
