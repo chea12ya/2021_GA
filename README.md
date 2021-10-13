@@ -1,5 +1,6 @@
-# 2021_GA 
 https://chea12ya.github.io/2021_GA/
+
+# 2021_GA 
 멋사 13회차 프로젝트 정리
 
 ## 웹의 이해 및 html 기본 실습
