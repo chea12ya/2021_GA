@@ -12,7 +12,8 @@ https://chea12ya.github.io/2021_GA/
 
 ## mypage 만들기
  * 01 main.html 자기소개, 좋아하는 것들, todolist  [link](https://chea12ya.github.io/2021_GA/blob/210903_실습과제/main.html)
- * 02 맛집, 자주/기억 리스트 5곳 [link]
+ * 02 맛집, 자주/기억 리스트 5곳 [link] ()
+
 
 ## CSS 기본 이해
 * 01 나의 사진 갤러리
@@ -38,4 +39,8 @@ https://chea12ya.github.io/2021_GA/
 01 _Titanic 실습 [link](https://github.com/chea12ya/2021_GA/blob/main/05_Titanic/210915-titanic.ipynb)
 
 ## 스파게티
-211007 최종 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/211007_스파게티.ipynb) 
+211007
+김범중 [link](
+정진우 [link](
+가채원 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/211007_스파게티.ipynb) 
+윤진훈 [link](
