@@ -12,7 +12,7 @@ https://chea12ya.github.io/2021_GA/
 
 
 ## mypage 만들기
- * 01 main.html 자기소개, 좋아하는 것들, todolist  [link](https://github.com/chea12ya/2021_GA/blob/210903 실습과제/main.html)
+ * 01 main.html 자기소개, 좋아하는 것들, todolist  [link](https://github.com/chea12ya/2021_GA/blob/210903_실습과제/main.html)
  * 02 맛집, 자주/기억 리스트 5곳 [link]
 
 ## CSS 기본 이해
