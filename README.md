@@ -44,7 +44,7 @@ https://chea12ya.github.io/2021_GA/
 02 발표 자료 [pdf](https://chea12ya.github.io/2021_GA/211007_스파게티/발표자료/211008_스파게티.pdf) [ppt](https://chea12ya.github.io/2021_GA/211007_스파게티/발표자료/211008_스파게티.pptx)
 03 역할 배분
 1) 김범중 [link](
-2) 정진우 [link](2021_GA/211007_스파게티/팀원코드/정진우_공공자전거이용객코드/TP_bike_19.ipynb)
+2) 정진우 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/팀원코드/정진우_공공자전거이용객코드/TP_bike_19.ipynb)
 
-3) 가채원 코로나 확진자 변화 추이 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/211007_스파게티.ipynb) 
+3) 가채원 코로나 확진자 변화 추이 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/팀원코드/가채원_코로나확진자코드.ipynb) 
 4) 윤진훈 [link]()
