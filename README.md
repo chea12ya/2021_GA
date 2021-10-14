@@ -46,5 +46,5 @@ https://chea12ya.github.io/2021_GA/
 1) 김범중 [link](https://github.com/chea12ya/2021_GA/211007_스파게티/팀원코드/김범중_지하철이용객코드/지하철_승하차/06_지하철월별_승차인원_그래프.html)
 2) 정진우 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/팀원코드/정진우_공공자전거이용객코드/TP_bike_19.ipynb)
 
-3) 가채원 코로나 확진자 변화 추이 [link](https://chea12ya.github.io/2021_GA/211007_스파게티/팀원코드/가채원_코로나확진자코드.ipynb) 
+3) 가채원 코로나 확진자 변화 추이 [link](https://github.com/chea12ya/2021_GA/blob/main/211007_%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0/%ED%8C%80%EC%9B%90%EC%BD%94%EB%93%9C/%EA%B0%80%EC%B1%84%EC%9B%90_%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%BD%94%EB%93%9C.ipynb) 
 4) 윤진훈 [link]()
