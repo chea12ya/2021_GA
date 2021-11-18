@@ -14,15 +14,17 @@
       - 중간 및 최종 결과 발표 자료 작성 (노션 활용)
       - 자료 리서치
       - 데이터 탐색 및 시각화 (태블로 활용)
+  * 발표 자료 [Notion](https://tulip-starflower-2f6.notion.site/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
   * 수상 여부
     : 멋쟁이 사자처럼 AI스쿨 13회차 우수팀 선정
+    : Dacon 38위(0.106439166 / 2021.11.13 기준)
   
 ### 2. COVID-19에 따른 생활 양상 변화 / (2021.09.17 ~ 2021.10.08)
   * 내용:
   * 역할:
   * 수상 여부:
 
-## 웹의 이해 및 html 기본 실습
+# 웹의 이해 및 html 기본 실습
  * HTML 기본 이해 실습
  * 01 title tag [link](https://github.com/chea12ya/2021_GA/blob/main/web_html/01_html_title.html)
  * 02 body, p tag [link](https://github.com/chea12ya/2021_GA/blob/main/web_html/02_html_body.html)
