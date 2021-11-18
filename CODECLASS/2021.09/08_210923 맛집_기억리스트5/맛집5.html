@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_9c57af23a551450eaac4a1406ffb0330 {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_9c57af23a551450eaac4a1406ffb0330" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_9c57af23a551450eaac4a1406ffb0330 = L.map(
+        'map_9c57af23a551450eaac4a1406ffb0330', {
+        center: [37.544613, 127.039464],
+        zoom: 10,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_60b4921ad1cd4b9ba42928fc650c9eea = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_9c57af23a551450eaac4a1406ffb0330);
+    
+        var marker_87de9192dbc1438fbe6766a073048a12 = L.marker(
+            [37.56194929065522, 126.9228061106658],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_9c57af23a551450eaac4a1406ffb0330);
+        
+    
+
+                var icon_daa7679dd05149a8a6d0acd9e9f6f823 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'white',
+                    markerColor: 'purple',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_87de9192dbc1438fbe6766a073048a12.setIcon(icon_daa7679dd05149a8a6d0acd9e9f6f823);
+            
+    
+            var popup_8397c0744c654e69b5c7a9b71f49321a = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_b3c64d131d6646f4b2194fed691842db = $(`<div id="html_b3c64d131d6646f4b2194fed691842db" style="width: 100.0%; height: 100.0%;">사루카메</div>`)[0];
+                popup_8397c0744c654e69b5c7a9b71f49321a.setContent(html_b3c64d131d6646f4b2194fed691842db);
+            
+
+            marker_87de9192dbc1438fbe6766a073048a12.bindPopup(popup_8397c0744c654e69b5c7a9b71f49321a)
+            ;
+
+            
+        
+    
+        var marker_88b624ebc8fa4e42a6319945b8cd40cf = L.marker(
+            [37.53406337505285, 126.99341330325484],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_9c57af23a551450eaac4a1406ffb0330);
+        
+    
+
+                var icon_3dd31215fc7148bbb643042518250f05 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'white',
+                    markerColor: 'purple',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_88b624ebc8fa4e42a6319945b8cd40cf.setIcon(icon_3dd31215fc7148bbb643042518250f05);
+            
+    
+            var popup_486d482080dd4b18b0ed6b039ebbdb0b = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_0c59877a89854a05b32f4abc56cc5182 = $(`<div id="html_0c59877a89854a05b32f4abc56cc5182" style="width: 100.0%; height: 100.0%;">매덕스피자</div>`)[0];
+                popup_486d482080dd4b18b0ed6b039ebbdb0b.setContent(html_0c59877a89854a05b32f4abc56cc5182);
+            
+
+            marker_88b624ebc8fa4e42a6319945b8cd40cf.bindPopup(popup_486d482080dd4b18b0ed6b039ebbdb0b)
+            ;
+
+            
+        
+    
+        var marker_4542c6383dc54c21aef03f6cd910f37b = L.marker(
+            [37.57630571306972, 126.97098572601526],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_9c57af23a551450eaac4a1406ffb0330);
+        
+    
+
+                var icon_6cb4419fba19412f9ed08da3e41b0488 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'white',
+                    markerColor: 'purple',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_4542c6383dc54c21aef03f6cd910f37b.setIcon(icon_6cb4419fba19412f9ed08da3e41b0488);
+            
+    
+            var popup_2a211accb6c3408784c7ca11fded4056 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_7752f90711074b99bb34f12559c46568 = $(`<div id="html_7752f90711074b99bb34f12559c46568" style="width: 100.0%; height: 100.0%;">심퍼티쿠시 경복궁점</div>`)[0];
+                popup_2a211accb6c3408784c7ca11fded4056.setContent(html_7752f90711074b99bb34f12559c46568);
+            
+
+            marker_4542c6383dc54c21aef03f6cd910f37b.bindPopup(popup_2a211accb6c3408784c7ca11fded4056)
+            ;
+
+            
+        
+    
+        var marker_cd7e6b1fe48442c18c07055b13727b0d = L.marker(
+            [37.502408046557484, 126.9499571799527],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_9c57af23a551450eaac4a1406ffb0330);
+        
+    
+
+                var icon_b06afc0fba95484aa4419ac4cd099c23 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'white',
+                    markerColor: 'purple',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_cd7e6b1fe48442c18c07055b13727b0d.setIcon(icon_b06afc0fba95484aa4419ac4cd099c23);
+            
+    
+            var popup_9113f70b2daa4387a0edb243328ce2e1 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_829cf2c8ffed4fd3931028b7cb9f6223 = $(`<div id="html_829cf2c8ffed4fd3931028b7cb9f6223" style="width: 100.0%; height: 100.0%;">명동국수</div>`)[0];
+                popup_9113f70b2daa4387a0edb243328ce2e1.setContent(html_829cf2c8ffed4fd3931028b7cb9f6223);
+            
+
+            marker_cd7e6b1fe48442c18c07055b13727b0d.bindPopup(popup_9113f70b2daa4387a0edb243328ce2e1)
+            ;
+
+            
+        
+    
+        var marker_a798b9d13c3a4b70b69b373f7fa3333f = L.marker(
+            [37.56387381207803, 126.926278833954],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_9c57af23a551450eaac4a1406ffb0330);
+        
+    
+
+                var icon_46b1aca366c74e0f8c2b3bbc2db8ce66 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'white',
+                    markerColor: 'purple',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_a798b9d13c3a4b70b69b373f7fa3333f.setIcon(icon_46b1aca366c74e0f8c2b3bbc2db8ce66);
+            
+    
+            var popup_01f84d2390844abb99da3b211c905839 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_e98ede04de2b45bbb61a217a3c4e3df2 = $(`<div id="html_e98ede04de2b45bbb61a217a3c4e3df2" style="width: 100.0%; height: 100.0%;">테일러커피 연남점</div>`)[0];
+                popup_01f84d2390844abb99da3b211c905839.setContent(html_e98ede04de2b45bbb61a217a3c4e3df2);
+            
+
+            marker_a798b9d13c3a4b70b69b373f7fa3333f.bindPopup(popup_01f84d2390844abb99da3b211c905839)
+            ;
+
+            
+        
+</script>
