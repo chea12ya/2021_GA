@@ -25,7 +25,7 @@
   * 역할
       - COVID-19 확진자 변화 추이 코드 작성
       - 발표 자료 (PPT) 제작
-  * 발표 자료 [PDF](https://chea12ya.github.io/2021_GA/211007_스파게티/발표자료/211008_스파게티.pdf)
+  * 발표 자료 [PDF](https://chea12ya.github.io/2021_GA/211008_스파게티.pdf)
 
 # 웹의 이해 및 html 기본 실습
  * HTML 기본 이해 실습
