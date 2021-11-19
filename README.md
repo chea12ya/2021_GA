@@ -34,6 +34,8 @@
  * 03 a, img tag [link](https://github.com/chea12ya/2021_GA/blob/main/web_html/03_html_link_img.html)
  * 04 div, span ul, ol, li [link](https://github.com/chea12ya/2021_GA/blob/main/web_html/04_html_div_span.html)
 
+# 
+
 
 ## mypage 만들기
  * 01 main.html 자기소개, 좋아하는 것들, todolist [link](https://chea12ya.github.io/2021_GA/02_css_gallery/main.html)
