@@ -32,26 +32,20 @@
   * 210914 기준 카카오메이커스 전체 브랜드 정리 및 엑셀로 변환하기 [link]()
 
 # class 실습
-### mypage 만들기
-### 1. main.html 자기소개, 좋아하는 것들, todolist [link](https://chea12ya.github.io/2021_GA/02_css_gallery/main.html)
+  * 01 mypage 만들기
+     * 1) main.html 자기소개, 좋아하는 것들, todolist [link](https://chea12ya.github.io/2021_GA/02_css_gallery/main.html)
+     * 2) 맛집, 자주/기억 리스트 5곳 [link] ()
 
-### 2. 맛집, 자주/기억 리스트 5곳 [link] ()
+  * 02 CSS 기본 이해
+     * 1) 나의 사진 갤러리 [이동](https://chea12ya.github.io/2021_GA/CODECLASS/2021.10/css_gallery/14_img.html) [코드](https://github.com/chea12ya/2021_GA/blob/main/CODECLASS/2021.10/css_gallery/14_img.html)
 
-## CSS 기본 이해
-### 01 나의 사진 갤러리
-[이동](https://chea12ya.github.io/2021_GA/CODECLASS/2021.10/css_gallery/14_img.html)
-[코드](https://github.com/chea12ya/2021_GA/blob/main/CODECLASS/2021.10/css_gallery/14_img.html)
+     * 2) 나의 자기소개 페이지 [이동](https://chea12ya.github.io/2021_GA/CODECLASS/2021.10/css_gallery/main.html)
 
-### 02 나의 자기소개 페이지
-[이동](https://chea12ya.github.io/2021_GA/CODECLASS/2021.10/css_gallery/main.html)
+ * 03 KOSDAQ KOSPI 데이터 시각화 및 CSV, XLSX 파일 변환 추출
+     * KOSDAQ KOSPI CSV 파일 [link](https://github.com/chea12ya/2021_GA/blob/main/05_210908%20KOSDAQ%20KOSPI/210908%20KOSDAQ%20%EC%A7%80%EC%88%98.csv)
 
+* 04 '사냥의 시간' 댓글 50p 데이터 시각화
+     * 네이버 영화 '사냥의 시간' 댓글 50page 데이터 시각화[link](https://github.com/chea12ya/2021_GA/blob/main/03_%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%98%81%ED%99%94_%EB%A6%AC%EB%B7%B0_50/%EA%B0%80%EC%B1%84%EC%9B%90_%EC%82%AC%EB%83%A5%EC%9D%98%20%EC%8B%9C%EA%B0%84_50.png)
 
-## KOSDAQ KOSPI 데이터 시각화 및 CSV, XLSX 파일 변환 추출
-### 01 KOSDAQ KOSPI CSV 파일 [link](https://github.com/chea12ya/2021_GA/blob/main/05_210908%20KOSDAQ%20KOSPI/210908%20KOSDAQ%20%EC%A7%80%EC%88%98.csv)
-
-
-## '사냥의 시간' 댓글 50p 데이터 시각화
-### 01 네이버 영화 '사냥의 시간' 댓글 50page 데이터 시각화[link](https://github.com/chea12ya/2021_GA/blob/main/03_%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%98%81%ED%99%94_%EB%A6%AC%EB%B7%B0_50/%EA%B0%80%EC%B1%84%EC%9B%90_%EC%82%AC%EB%83%A5%EC%9D%98%20%EC%8B%9C%EA%B0%84_50.png)
-
-## Kaggle
-### 01 Titanic 실습 [link](https://github.com/chea12ya/2021_GA/blob/main/05_Titanic/210915-titanic.ipynb)
+# Kaggle
+* Titanic 실습 [link](https://github.com/chea12ya/2021_GA/blob/main/05_Titanic/210915-titanic.ipynb)
