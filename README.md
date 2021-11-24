@@ -35,7 +35,7 @@
 ### mypage 만들기
 ### 1. main.html 자기소개, 좋아하는 것들, todolist [link](https://chea12ya.github.io/2021_GA/02_css_gallery/main.html)
 
-### 02 맛집, 자주/기억 리스트 5곳 [link] ()
+### 2. 맛집, 자주/기억 리스트 5곳 [link] ()
 
 ## CSS 기본 이해
 ### 01 나의 사진 갤러리
